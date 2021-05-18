@@ -14,7 +14,7 @@ export class EmailComponent implements OnInit {
     subject:"",
     message:"",
     from:"kumarashish79924@gmail.com",
-    password:"Chitkara@123"
+    password:"***************"
   }
 
   flag=false;
